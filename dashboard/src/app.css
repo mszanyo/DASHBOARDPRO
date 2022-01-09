@@ -1,0 +1,33 @@
+.app {
+	background-color: #f1f1f1;
+	padding-bottom: 10px;
+	padding-left: 10px;
+	padding-right: 10px;
+	font-size: 14px;
+}
+
+.container {
+	height: 80vh;
+	display: grid;
+	gap: 5px;
+
+	/* grid-template-columns: 3fr 2fr; */
+	grid-template-columns: 4fr 3fr;
+}
+
+.app-cards {
+	height: 20vh;
+	padding: 20px 0;
+}
+
+.charts-col {
+	height: 100%;
+	display: flex;
+	flex-direction: column;
+}
+
+.tables-col {
+	height: 100%;
+	display: flex;
+	flex-direction: column;
+}

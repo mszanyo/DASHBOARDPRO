@@ -1,0 +1,21 @@
+.card {
+	background-color: #f1f1f18e;
+	padding: 2% 4%;
+	border-radius: 20px;
+	-webkit-box-shadow: 0px 0px 15px -10px rgba(0, 0, 0, 0.75);
+	box-shadow: 0px 0px 15px -10px rgba(0, 0, 0, 0.75);
+}
+
+.card h3 {
+	text-align: center;
+	margin-bottom: 10px;
+	font-size: 32px;
+}
+
+.card span {
+	text-align: center;
+}
+
+.savedColor {
+	background-color: rgba(255, 0, 0, 0.411);
+}
